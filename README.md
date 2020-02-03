@@ -4,7 +4,7 @@
 
 <ul>
 <li>Clone Project</li>
-git clone https://github.com/ridwands/rest-api-flask.git
+git clone https://github.com/ridwands/absensi-rfid
 <li>Install Dependencies</li>
 pip install requirements.txt
 <li>Change Configuration DB on db_config.py</li>
