@@ -4,7 +4,7 @@
      
 const char* ssid     = "IniWifi";
 const char* password = "lupaapatau";   
-const char *host = "http://192.168.43.17:5000/mahasiswa";  
+const char *host = "http://192.168.43.17:5000/mahasiswa"
 
 int wifiStatus;
     
