@@ -90,7 +90,7 @@ def mahasiswa_add():
         cekabsen = cursor.fetchone()
 
         #Send To FCM 
-        # if absensi is None:
+        if absensi is None:
         #     url = "https://fcm.googleapis.com/fcm/send"
         #     payload = "{\n  \"notification\": \n  {\n    \"title\": \"Your Student Have Present\"\n  },\n \n  \"priority\" : \"high\",\n  \"to\" : \"/topics/news\"\n}"
         #     headers = {
